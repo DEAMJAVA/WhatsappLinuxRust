@@ -133,4 +133,4 @@ Delete this folder to log out and reset the app.
 
 ## License
 
-Choose a license for your project (for example, [MIT](https://choosealicense.com/licenses/mit/)) and add a `LICENSE` file, then update this section.
+LICENSE - GPLv3
