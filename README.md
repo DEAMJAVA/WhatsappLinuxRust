@@ -37,7 +37,7 @@ sudo apt install gstreamer1.0-plugins-good gstreamer1.0-plugins-bad \
 ## Build and run
 
 ```bash
-git clone https://github.com/DEAMJAVA/whatsapp-linux.git
+git clone https://github.com/DEAMJAVA/WhatsappLinuxRust
 cd whatsapp-linux
 cargo run --release
 ```
